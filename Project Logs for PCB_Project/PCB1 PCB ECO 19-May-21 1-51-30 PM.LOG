@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=* NewDesignator=DRIVE1
+Change Component Designator: OldDesignator=* NewDesignator=DRIVE2
+Change Component Designator: OldDesignator=* NewDesignator=DRIVE3
+Change Component Designator: OldDesignator=BMP ? NewDesignator=BMP 1
+Change Component Designator: OldDesignator=DHT ? NewDesignator=DHT 1
+Change Component Designator: OldDesignator=MQ-7 ? NewDesignator=MQ-1
+Change Component Designator: OldDesignator=MQ-7 ? NewDesignator=MQ-2
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Added Member To Class: ClassName=Sheet1 Member=Component DRIVE1 VNH2SP30
+Added Member To Class: ClassName=Sheet1 Member=Component DRIVE3 VNH2SP30
+Added Member To Class: ClassName=Sheet1 Member=Component MQ-1 MQ-7
