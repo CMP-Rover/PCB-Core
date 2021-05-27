@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetArduino Mega_61 Pin=Arduino Mega-61
+Added Net: Name=NetArduino Mega_61
+Added Pin To Net: NetName=NetArduino Mega_62 Pin=Arduino Mega-62
+Added Net: Name=NetArduino Mega_62
+Added Room: Name=Sheet1

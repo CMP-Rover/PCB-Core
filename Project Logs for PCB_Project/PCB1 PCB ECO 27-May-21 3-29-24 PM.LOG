@@ -1,0 +1,196 @@
+Added Component: Designator=Arduino Mega(ARDUINO MEGA)
+Added Component: Designator=DRIVE1(VNH2SP30)
+Added Component: Designator=DRIVE2(VNH2SP30)
+Added Component: Designator=DRIVE3(VNH2SP30)
+Added Component: Designator=IN_PWR(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=M_enc_12(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=M_enc_34(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=M_enc_56(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Vol_Reg(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3 Pin=Arduino Mega-55
+Added Pin To Net: NetName=3.3 Pin=P1-2
+Added Net: Name=3.3
+Added Pin To Net: NetName=5 Pin=Arduino Mega-59
+Added Pin To Net: NetName=5 Pin=DRIVE1-5V
+Added Pin To Net: NetName=5 Pin=DRIVE2-5V
+Added Pin To Net: NetName=5 Pin=DRIVE3-5V
+Added Pin To Net: NetName=5 Pin=IN_PWR-1
+Added Pin To Net: NetName=5 Pin=M_enc_12-7
+Added Pin To Net: NetName=5 Pin=M_enc_12-8
+Added Pin To Net: NetName=5 Pin=M_enc_34-7
+Added Pin To Net: NetName=5 Pin=M_enc_34-8
+Added Pin To Net: NetName=5 Pin=M_enc_56-7
+Added Pin To Net: NetName=5 Pin=M_enc_56-8
+Added Pin To Net: NetName=5 Pin=P1-1
+Added Pin To Net: NetName=5 Pin=Vol_Reg-2
+Added Net: Name=5
+Added Pin To Net: NetName=ANG_MQ7 Pin=Arduino Mega-60
+Added Pin To Net: NetName=ANG_MQ7 Pin=P2-7
+Added Net: Name=ANG_MQ7
+Added Pin To Net: NetName=DHT_DATA Pin=Arduino Mega-53
+Added Pin To Net: NetName=DHT_DATA Pin=P2-8
+Added Net: Name=DHT_DATA
+Added Pin To Net: NetName=DIG_MQ2 Pin=Arduino Mega-9
+Added Pin To Net: NetName=DIG_MQ2 Pin=P2-5
+Added Net: Name=DIG_MQ2
+Added Pin To Net: NetName=DIG_MQ7 Pin=Arduino Mega-8
+Added Pin To Net: NetName=DIG_MQ7 Pin=P2-6
+Added Net: Name=DIG_MQ7
+Added Pin To Net: NetName=DRIVE_1_4 Pin=Arduino Mega-24
+Added Pin To Net: NetName=DRIVE_1_4 Pin=DRIVE1-4
+Added Net: Name=DRIVE_1_4
+Added Pin To Net: NetName=DRIVE_1_5 Pin=Arduino Mega-13
+Added Pin To Net: NetName=DRIVE_1_5 Pin=DRIVE1-5
+Added Net: Name=DRIVE_1_5
+Added Pin To Net: NetName=DRIVE_1_6 Pin=Arduino Mega-12
+Added Pin To Net: NetName=DRIVE_1_6 Pin=DRIVE1-6
+Added Net: Name=DRIVE_1_6
+Added Pin To Net: NetName=DRIVE_1_7 Pin=Arduino Mega-22
+Added Pin To Net: NetName=DRIVE_1_7 Pin=DRIVE1-7
+Added Net: Name=DRIVE_1_7
+Added Pin To Net: NetName=DRIVE_1_8 Pin=Arduino Mega-23
+Added Pin To Net: NetName=DRIVE_1_8 Pin=DRIVE1-8
+Added Net: Name=DRIVE_1_8
+Added Pin To Net: NetName=DRIVE_1_9 Pin=Arduino Mega-25
+Added Pin To Net: NetName=DRIVE_1_9 Pin=DRIVE1-9
+Added Net: Name=DRIVE_1_9
+Added Pin To Net: NetName=DRIVE_1_AN0 Pin=Arduino Mega-61
+Added Net: Name=DRIVE_1_AN0
+Added Pin To Net: NetName=DRIVE_1_AN1 Pin=Arduino Mega-62
+Added Net: Name=DRIVE_1_AN1
+Added Pin To Net: NetName=DRIVE_2_4 Pin=Arduino Mega-28
+Added Pin To Net: NetName=DRIVE_2_4 Pin=DRIVE2-4
+Added Net: Name=DRIVE_2_4
+Added Pin To Net: NetName=DRIVE_2_5 Pin=Arduino Mega-11
+Added Pin To Net: NetName=DRIVE_2_5 Pin=DRIVE2-5
+Added Net: Name=DRIVE_2_5
+Added Pin To Net: NetName=DRIVE_2_6 Pin=Arduino Mega-10
+Added Pin To Net: NetName=DRIVE_2_6 Pin=DRIVE2-6
+Added Net: Name=DRIVE_2_6
+Added Pin To Net: NetName=DRIVE_2_7 Pin=Arduino Mega-26
+Added Pin To Net: NetName=DRIVE_2_7 Pin=DRIVE2-7
+Added Net: Name=DRIVE_2_7
+Added Pin To Net: NetName=DRIVE_2_8 Pin=Arduino Mega-27
+Added Pin To Net: NetName=DRIVE_2_8 Pin=DRIVE2-8
+Added Net: Name=DRIVE_2_8
+Added Pin To Net: NetName=DRIVE_2_9 Pin=Arduino Mega-29
+Added Pin To Net: NetName=DRIVE_2_9 Pin=DRIVE2-9
+Added Net: Name=DRIVE_2_9
+Added Pin To Net: NetName=DRIVE_2_AN0 Pin=Arduino Mega-63
+Added Net: Name=DRIVE_2_AN0
+Added Pin To Net: NetName=DRIVE_2_AN1 Pin=Arduino Mega-66
+Added Net: Name=DRIVE_2_AN1
+Added Pin To Net: NetName=DRIVE_3_4 Pin=Arduino Mega-32
+Added Pin To Net: NetName=DRIVE_3_4 Pin=DRIVE3-4
+Added Net: Name=DRIVE_3_4
+Added Pin To Net: NetName=DRIVE_3_5 Pin=Arduino Mega-6
+Added Pin To Net: NetName=DRIVE_3_5 Pin=DRIVE3-5
+Added Net: Name=DRIVE_3_5
+Added Pin To Net: NetName=DRIVE_3_6 Pin=Arduino Mega-7
+Added Pin To Net: NetName=DRIVE_3_6 Pin=DRIVE3-6
+Added Net: Name=DRIVE_3_6
+Added Pin To Net: NetName=DRIVE_3_7 Pin=Arduino Mega-30
+Added Pin To Net: NetName=DRIVE_3_7 Pin=DRIVE3-7
+Added Net: Name=DRIVE_3_7
+Added Pin To Net: NetName=DRIVE_3_8 Pin=Arduino Mega-31
+Added Pin To Net: NetName=DRIVE_3_8 Pin=DRIVE3-8
+Added Net: Name=DRIVE_3_8
+Added Pin To Net: NetName=DRIVE_3_9 Pin=Arduino Mega-33
+Added Pin To Net: NetName=DRIVE_3_9 Pin=DRIVE3-9
+Added Net: Name=DRIVE_3_9
+Added Pin To Net: NetName=DRIVE_3_AN0 Pin=Arduino Mega-67
+Added Net: Name=DRIVE_3_AN0
+Added Pin To Net: NetName=DRIVE_3_AN1 Pin=Arduino Mega-68
+Added Net: Name=DRIVE_3_AN1
+Added Pin To Net: NetName=GND Pin=DRIVE1-GND 0
+Added Pin To Net: NetName=GND Pin=DRIVE1-GND 1
+Added Pin To Net: NetName=GND Pin=DRIVE1-GND 2
+Added Pin To Net: NetName=GND Pin=DRIVE2-GND 0
+Added Pin To Net: NetName=GND Pin=DRIVE2-GND 1
+Added Pin To Net: NetName=GND Pin=DRIVE2-GND 2
+Added Pin To Net: NetName=GND Pin=DRIVE3-GND 0
+Added Pin To Net: NetName=GND Pin=DRIVE3-GND 1
+Added Pin To Net: NetName=GND Pin=DRIVE3-GND 2
+Added Pin To Net: NetName=GND Pin=IN_PWR-2
+Added Pin To Net: NetName=GND Pin=M_enc_12-1
+Added Pin To Net: NetName=GND Pin=M_enc_12-2
+Added Pin To Net: NetName=GND Pin=M_enc_34-1
+Added Pin To Net: NetName=GND Pin=M_enc_34-2
+Added Pin To Net: NetName=GND Pin=M_enc_56-1
+Added Pin To Net: NetName=GND Pin=M_enc_56-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=Vol_Reg-1
+Added Net: Name=GND
+Added Pin To Net: NetName=OA_M1 Pin=Arduino Mega-2
+Added Pin To Net: NetName=OA_M1 Pin=M_enc_12-3
+Added Net: Name=OA_M1
+Added Pin To Net: NetName=OA_M2 Pin=Arduino Mega-3
+Added Pin To Net: NetName=OA_M2 Pin=M_enc_12-4
+Added Net: Name=OA_M2
+Added Pin To Net: NetName=OA_M3 Pin=Arduino Mega-18
+Added Pin To Net: NetName=OA_M3 Pin=M_enc_34-3
+Added Net: Name=OA_M3
+Added Pin To Net: NetName=OA_M4 Pin=Arduino Mega-19
+Added Pin To Net: NetName=OA_M4 Pin=M_enc_34-4
+Added Net: Name=OA_M4
+Added Pin To Net: NetName=OA_M5 Pin=Arduino Mega-20
+Added Pin To Net: NetName=OA_M5 Pin=M_enc_56-3
+Added Net: Name=OA_M5
+Added Pin To Net: NetName=OA_M6 Pin=Arduino Mega-21
+Added Pin To Net: NetName=OA_M6 Pin=M_enc_56-4
+Added Net: Name=OA_M6
+Added Pin To Net: NetName=OB_M1 Pin=Arduino Mega-34
+Added Pin To Net: NetName=OB_M1 Pin=M_enc_12-5
+Added Net: Name=OB_M1
+Added Pin To Net: NetName=OB_M2 Pin=Arduino Mega-35
+Added Pin To Net: NetName=OB_M2 Pin=M_enc_12-6
+Added Net: Name=OB_M2
+Added Pin To Net: NetName=OB_M3 Pin=Arduino Mega-36
+Added Pin To Net: NetName=OB_M3 Pin=M_enc_34-5
+Added Net: Name=OB_M3
+Added Pin To Net: NetName=OB_M4 Pin=Arduino Mega-37
+Added Pin To Net: NetName=OB_M4 Pin=M_enc_34-6
+Added Net: Name=OB_M4
+Added Pin To Net: NetName=OB_M5 Pin=Arduino Mega-38
+Added Pin To Net: NetName=OB_M5 Pin=M_enc_56-5
+Added Net: Name=OB_M5
+Added Pin To Net: NetName=OB_M6 Pin=Arduino Mega-39
+Added Pin To Net: NetName=OB_M6 Pin=M_enc_56-6
+Added Net: Name=OB_M6
+Added Pin To Net: NetName=RX Pin=Arduino Mega-15
+Added Pin To Net: NetName=RX Pin=P2-4
+Added Net: Name=RX
+Added Pin To Net: NetName=SCL Pin=Arduino Mega-65
+Added Pin To Net: NetName=SCL Pin=P2-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=Arduino Mega-64
+Added Pin To Net: NetName=SDA Pin=P2-2
+Added Net: Name=SDA
+Added Pin To Net: NetName=TX Pin=Arduino Mega-14
+Added Pin To Net: NetName=TX Pin=P2-3
+Added Net: Name=TX
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
