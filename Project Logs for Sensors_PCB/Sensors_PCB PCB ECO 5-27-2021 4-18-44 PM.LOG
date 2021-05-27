@@ -1,0 +1,6 @@
+Change Component Comment : Designator=P5 Old Comment=Header 4 New Comment=Header 5
+Added Pin To Net: NetName=TX Pin=P5-1
+Added Pin To Net: NetName=RX Pin=P5-2
+Added Pin To Net: NetName=SDA Pin=P5-3
+Added Pin To Net: NetName=SCL Pin=P5-4
+Added Member To Class: ClassName=Sensors_PCB Member=Component P1 Header 4

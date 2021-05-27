@@ -1,0 +1,69 @@
+Added Component: Designator=BMP 1(BMP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=DHT 1(DHT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=GPS1(GPS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MQ-1(MQ-7 Up)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MQ-2(MQ-7 Up)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3 Pin=P2-2
+Added Net: Name=3.3
+Added Pin To Net: NetName=5 Pin=BMP 1-VIN
+Added Pin To Net: NetName=5 Pin=DHT 1-9
+Added Pin To Net: NetName=5 Pin=GPS1-12
+Added Pin To Net: NetName=5 Pin=MQ-1-43
+Added Pin To Net: NetName=5 Pin=MQ-2-43
+Added Pin To Net: NetName=5 Pin=P2-1
+Added Net: Name=5
+Added Pin To Net: NetName=ANG_MQ7 Pin=MQ-2-46
+Added Pin To Net: NetName=ANG_MQ7 Pin=P1-7
+Added Net: Name=ANG_MQ7
+Added Pin To Net: NetName=DHT_DATA Pin=DHT 1-10
+Added Pin To Net: NetName=DHT_DATA Pin=P1-8
+Added Net: Name=DHT_DATA
+Added Pin To Net: NetName=DIG_MQ2 Pin=MQ-1-45
+Added Pin To Net: NetName=DIG_MQ2 Pin=P1-5
+Added Net: Name=DIG_MQ2
+Added Pin To Net: NetName=DIG_MQ7 Pin=MQ-2-45
+Added Pin To Net: NetName=DIG_MQ7 Pin=P1-6
+Added Net: Name=DIG_MQ7
+Added Pin To Net: NetName=GND Pin=BMP 1-GND
+Added Pin To Net: NetName=GND Pin=DHT 1-11
+Added Pin To Net: NetName=GND Pin=GPS1-15
+Added Pin To Net: NetName=GND Pin=MQ-1-44
+Added Pin To Net: NetName=GND Pin=MQ-1-46
+Added Pin To Net: NetName=GND Pin=MQ-2-44
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Net: Name=GND
+Added Pin To Net: NetName=RX Pin=GPS1-13
+Added Pin To Net: NetName=RX Pin=P1-4
+Added Net: Name=RX
+Added Pin To Net: NetName=SCL Pin=BMP 1-SCL
+Added Pin To Net: NetName=SCL Pin=P1-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=BMP 1-SDA
+Added Pin To Net: NetName=SDA Pin=P1-2
+Added Net: Name=SDA
+Added Pin To Net: NetName=TX Pin=GPS1-14
+Added Pin To Net: NetName=TX Pin=P1-3
+Added Net: Name=TX
+Added Member To Class: ClassName=Sensors_PCB Member=Component BMP 1 BMP
+Added Member To Class: ClassName=Sensors_PCB Member=Component DHT 1 DHT
+Added Member To Class: ClassName=Sensors_PCB Member=Component GPS1 GPS
+Added Member To Class: ClassName=Sensors_PCB Member=Component MQ-1 MQ-7
+Added Member To Class: ClassName=Sensors_PCB Member=Component MQ-2 MQ-7
+Added Member To Class: ClassName=Sensors_PCB Member=Component P1 Header 8
+Added Member To Class: ClassName=Sensors_PCB Member=Component P2 Header 3
+Added Room: Name=Sensors_PCB
