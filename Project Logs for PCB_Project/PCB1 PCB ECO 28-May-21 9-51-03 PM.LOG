@@ -1,0 +1,40 @@
+Change Component Designator: OldDesignator=  NewDesignator=Arduino Mega
+Added Component: Designator=DRIVE1(VNH2SP30)
+Added Component: Designator=DRIVE2(VNH2SP30)
+Added Component: Designator=DRIVE3(VNH2SP30)
+Added Pin To Net: NetName=DRIVE_1_4 Pin=DRIVE1-4
+Added Pin To Net: NetName=DRIVE_1_5 Pin=DRIVE1-5
+Added Pin To Net: NetName=5 Pin=DRIVE1-5V
+Added Pin To Net: NetName=DRIVE_1_6 Pin=DRIVE1-6
+Added Pin To Net: NetName=DRIVE_1_7 Pin=DRIVE1-7
+Added Pin To Net: NetName=DRIVE_1_8 Pin=DRIVE1-8
+Added Pin To Net: NetName=DRIVE_1_9 Pin=DRIVE1-9
+Added Pin To Net: NetName=GND Pin=DRIVE1-GND 0
+Added Pin To Net: NetName=GND Pin=DRIVE1-GND 1
+Added Pin To Net: NetName=GND Pin=DRIVE1-GND 2
+Added Pin To Net: NetName=DRIVE_2_4 Pin=DRIVE2-4
+Added Pin To Net: NetName=DRIVE_2_5 Pin=DRIVE2-5
+Added Pin To Net: NetName=5 Pin=DRIVE2-5V
+Added Pin To Net: NetName=DRIVE_2_6 Pin=DRIVE2-6
+Added Pin To Net: NetName=DRIVE_2_7 Pin=DRIVE2-7
+Added Pin To Net: NetName=DRIVE_2_8 Pin=DRIVE2-8
+Added Pin To Net: NetName=DRIVE_2_9 Pin=DRIVE2-9
+Added Pin To Net: NetName=GND Pin=DRIVE2-GND 0
+Added Pin To Net: NetName=GND Pin=DRIVE2-GND 1
+Added Pin To Net: NetName=GND Pin=DRIVE2-GND 2
+Added Pin To Net: NetName=DRIVE_3_4 Pin=DRIVE3-4
+Added Pin To Net: NetName=DRIVE_3_5 Pin=DRIVE3-5
+Added Pin To Net: NetName=5 Pin=DRIVE3-5V
+Added Pin To Net: NetName=DRIVE_3_6 Pin=DRIVE3-6
+Added Pin To Net: NetName=DRIVE_3_7 Pin=DRIVE3-7
+Added Pin To Net: NetName=DRIVE_3_8 Pin=DRIVE3-8
+Added Pin To Net: NetName=DRIVE_3_9 Pin=DRIVE3-9
+Added Pin To Net: NetName=GND Pin=DRIVE3-GND 0
+Added Pin To Net: NetName=GND Pin=DRIVE3-GND 1
+Added Pin To Net: NetName=GND Pin=DRIVE3-GND 2
+Added Member To Class: ClassName=Sheet1 Member=Component Arduino Mega
+Added Member To Class: ClassName=Sheet1 Member=Component DRIVE1 VNH2SP30
+Added Member To Class: ClassName=Sheet1 Member=Component DRIVE2 VNH2SP30
+Added Member To Class: ClassName=Sheet1 Member=Component DRIVE3 VNH2SP30
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 7
+Added Room: Name=Sheet1
