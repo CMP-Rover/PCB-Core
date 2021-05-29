@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=DRIVE_1_4 Pin=Arduino Mega-24
+Added Pin To Net: NetName=DRIVE_1_7 Pin=Arduino Mega-26
+Added Pin To Net: NetName=DRIVE_1_8 Pin=Arduino Mega-28
+Added Pin To Net: NetName=DRIVE_1_9 Pin=Arduino Mega-30
+Added Room: Name=Sheet1

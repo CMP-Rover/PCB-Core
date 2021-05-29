@@ -1,0 +1,18 @@
+Added Component: Designator=M_enc_56(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OB_M6 Pin=Arduino Mega-32
+Added Pin To Net: NetName=OB_M5 Pin=Arduino Mega-34
+Added Pin To Net: NetName=OA_M6 Pin=Arduino Mega-36
+Added Pin To Net: NetName=OA_M5 Pin=Arduino Mega-38
+Added Pin To Net: NetName=GND Pin=M_enc_56-1
+Added Pin To Net: NetName=GND Pin=M_enc_56-2
+Added Pin To Net: NetName=OA_M5 Pin=M_enc_56-3
+Added Pin To Net: NetName=OA_M6 Pin=M_enc_56-4
+Added Pin To Net: NetName=OB_M5 Pin=M_enc_56-5
+Added Pin To Net: NetName=OB_M6 Pin=M_enc_56-6
+Added Pin To Net: NetName=5 Pin=M_enc_56-7
+Added Pin To Net: NetName=5 Pin=M_enc_56-8
+Added Member To Class: ClassName=Sheet1 Member=Component M_enc_56 Header 8
+Added Room: Name=Sheet1

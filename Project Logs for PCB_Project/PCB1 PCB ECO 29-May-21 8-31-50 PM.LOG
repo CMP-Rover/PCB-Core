@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=DRIVE_1_8 Pin=Arduino Mega-24
+Added Component: Designator=M_enc_12(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OB_M2 Pin=Arduino Mega-23
+Added Pin To Net: NetName=OB_M1 Pin=Arduino Mega-25
+Added Pin To Net: NetName=OA_M2 Pin=Arduino Mega-27
+Added Pin To Net: NetName=OA_M1 Pin=Arduino Mega-29
+Added Pin To Net: NetName=GND Pin=M_enc_12-1
+Added Pin To Net: NetName=GND Pin=M_enc_12-2
+Added Pin To Net: NetName=OA_M1 Pin=M_enc_12-3
+Added Pin To Net: NetName=OA_M2 Pin=M_enc_12-4
+Added Pin To Net: NetName=OB_M1 Pin=M_enc_12-5
+Added Pin To Net: NetName=OB_M2 Pin=M_enc_12-6
+Added Pin To Net: NetName=5 Pin=M_enc_12-7
+Added Pin To Net: NetName=5 Pin=M_enc_12-8
+Added Member To Class: ClassName=Sheet1 Member=Component M_enc_12 Header 8
+Added Room: Name=Sheet1
