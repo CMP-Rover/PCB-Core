@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=5 Pin=Drive2-2Analog
+Removed Pin From Net: NetName=5 Pin=Drive3-3.3V
+Removed Pin From Net: NetName=GND Pin=Drive3-5V
+Added Pin To Net: NetName=5 Pin=Drive3-5V
+Added Pin To Net: NetName=GND Pin=Drive3-GND0
+Added Room: Name=Sheet1

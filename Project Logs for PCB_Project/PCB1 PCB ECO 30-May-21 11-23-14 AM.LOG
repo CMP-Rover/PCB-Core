@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=OA_M1 Pin=Arduino Mega-2
+Removed Pin From Net: NetName=OA_M2 Pin=Arduino Mega-3
+Removed Pin From Net: NetName=OA_M3 Pin=Arduino Mega-18
+Removed Pin From Net: NetName=OA_M4 Pin=Arduino Mega-19
+Removed Pin From Net: NetName=OA_M5 Pin=Arduino Mega-20
+Removed Pin From Net: NetName=OA_M6 Pin=Arduino Mega-21
+Removed Pin From Net: NetName=OB_M2 Pin=Arduino Mega-23
+Removed Pin From Net: NetName=OB_M1 Pin=Arduino Mega-25
+Removed Pin From Net: NetName=OA_M2 Pin=Arduino Mega-27
+Removed Pin From Net: NetName=OA_M1 Pin=Arduino Mega-29
+Removed Pin From Net: NetName=OB_M4 Pin=Arduino Mega-31
+Removed Pin From Net: NetName=OB_M3 Pin=Arduino Mega-33
+Removed Pin From Net: NetName=OA_M4 Pin=Arduino Mega-35
+Removed Pin From Net: NetName=OB_M6 Pin=Arduino Mega-36
+Removed Pin From Net: NetName=OA_M3 Pin=Arduino Mega-37
+Removed Pin From Net: NetName=OB_M5 Pin=Arduino Mega-38
+Removed Pin From Net: NetName=OA_M6 Pin=Arduino Mega-40
+Removed Pin From Net: NetName=OA_M5 Pin=Arduino Mega-42
+Removed Pin From Net: NetName=DRIVE_3_8 Pin=Arduino Mega-48
+Removed Pin From Net: NetName=DRIVE_3_9 Pin=Arduino Mega-50
+Added Pin To Net: NetName=DRIVE__3_8 Pin=Arduino Mega-48
+Added Net: Name=DRIVE__3_8
+Added Pin To Net: NetName=DRIVE__3_9 Pin=Arduino Mega-50
+Added Net: Name=DRIVE__3_9
+Added Room: Name=Sheet1

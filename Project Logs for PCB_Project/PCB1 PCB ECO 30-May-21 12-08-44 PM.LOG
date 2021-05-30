@@ -1,0 +1,26 @@
+Change Component Comment : Designator=Drive1 Old Comment=Component_1 New Comment=
+Added Component: Designator=Drive2(PCBComponent_1)
+Added Component: Designator=Drive3(PCBComponent_1)
+Added Pin To Net: NetName=DRIVE_2_4 Pin=Drive2-4
+Added Pin To Net: NetName=DRIVE_2_5 Pin=Drive2-5
+Added Pin To Net: NetName=5 Pin=Drive2-5V
+Added Pin To Net: NetName=DRIVE_2_6 Pin=Drive2-6
+Added Pin To Net: NetName=DRIVE_2_7 Pin=Drive2-7
+Added Pin To Net: NetName=DRIVE_2_8 Pin=Drive2-8
+Added Pin To Net: NetName=DRIVE_2_9 Pin=Drive2-9
+Added Pin To Net: NetName=GND Pin=Drive2-GND0
+Added Pin To Net: NetName=GND Pin=Drive2-GND1
+Added Pin To Net: NetName=GND Pin=Drive2-GND2
+Added Pin To Net: NetName=5 Pin=Drive3-3.3V
+Added Pin To Net: NetName=DRIVE_3_4 Pin=Drive3-4
+Added Pin To Net: NetName=DRIVE_3_5 Pin=Drive3-5
+Added Pin To Net: NetName=GND Pin=Drive3-5V
+Added Pin To Net: NetName=DRIVE_3_6 Pin=Drive3-6
+Added Pin To Net: NetName=DRIVE_3_7 Pin=Drive3-7
+Added Pin To Net: NetName=DRIVE_3_8 Pin=Drive3-8
+Added Pin To Net: NetName=DRIVE_3_9 Pin=Drive3-9
+Added Pin To Net: NetName=GND Pin=Drive3-GND1
+Added Pin To Net: NetName=GND Pin=Drive3-GND2
+Added Member To Class: ClassName=Sheet1 Member=Component Drive2
+Added Member To Class: ClassName=Sheet1 Member=Component Drive3
+Added Room: Name=Sheet1
