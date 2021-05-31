@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Encoder_1_DIG_1 Pin=Encoder_1_2-5
+Removed Pin From Net: NetName=Encoder_1_DIG_2 Pin=Encoder_1_2-6
+Added Pin To Net: NetName=Encoder_1_DIG_2 Pin=Encoder_1_2-5
+Added Pin To Net: NetName=Encoder_1_DIG_1 Pin=Encoder_1_2-6

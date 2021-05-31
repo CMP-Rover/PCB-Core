@@ -1,0 +1,6 @@
+Added Component: Designator=Drive1(PCBComponent_1)
+Added Component: Designator=Drive2(PCBComponent_1)
+Added Component: Designator=Drive3(PCBComponent_1)
+Added Member To Class: ClassName=Sheet1 Member=Component Drive1 Component_1
+Added Member To Class: ClassName=Sheet1 Member=Component Drive2 Component_1
+Added Member To Class: ClassName=Sheet1 Member=Component Drive3 Component_1

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=Cap-2
+Added Pin To Net: NetName=5 Pin=IN_PWR-1
+Added Member To Class: ClassName=Sheet1 Member=Component Arduino Mega
+Added Room: Name=Sheet1

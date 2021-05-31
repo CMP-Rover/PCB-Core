@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Current_sensor_2_1 Pin=Drive2-2Analog
+Removed Pin From Net: NetName=Current_sensor_2_2 Pin=Drive2-3Analog
+Removed Pin From Net: NetName=Current_sensor_3_1 Pin=Drive3-2Analog
+Removed Pin From Net: NetName=Current_sensor_3_2 Pin=Drive3-3Analog
+Added Pin To Net: NetName=Current_sensor_2_2 Pin=Drive2-2Analog
+Added Pin To Net: NetName=Current_sensor_2_1 Pin=Drive2-3Analog
+Added Pin To Net: NetName=Current_sensor_3_2 Pin=Drive3-2Analog
+Added Pin To Net: NetName=Current_sensor_3_1 Pin=Drive3-3Analog
