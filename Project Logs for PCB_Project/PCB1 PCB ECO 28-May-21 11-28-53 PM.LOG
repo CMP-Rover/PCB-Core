@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=DRIVE_3_8 Pin=Arduino Mega-22
-Removed Pin From Net: NetName=DRIVE_3_9 Pin=Arduino Mega-24
-Removed Pin From Net: NetName=DRIVE_3_4 Pin=Arduino Mega-48
-Removed Pin From Net: NetName=DRIVE_3_7 Pin=Arduino Mega-50
-Added Pin To Net: NetName=DRIVE_3_4 Pin=Arduino Mega-22
-Added Pin To Net: NetName=DRIVE_3_7 Pin=Arduino Mega-24
-Added Pin To Net: NetName=DRIVE_3_8 Pin=Arduino Mega-48
-Added Pin To Net: NetName=DRIVE_3_9 Pin=Arduino Mega-50

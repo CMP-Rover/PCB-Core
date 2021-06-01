@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=OA_M4 Pin=Arduino Mega-33
-Removed Pin From Net: NetName=OB_M3 Pin=Arduino Mega-35
-Added Pin To Net: NetName=OB_M3 Pin=Arduino Mega-33
-Added Pin To Net: NetName=OA_M4 Pin=Arduino Mega-35
-Added Room: Name=Sheet1

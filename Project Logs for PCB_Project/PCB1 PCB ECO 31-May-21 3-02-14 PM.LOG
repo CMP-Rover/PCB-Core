@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=TopPcb-6
-Removed Pin From Net: NetName=5 Pin=TopPcb-7
-Added Pin To Net: NetName=5 Pin=TopPcb-6
-Added Pin To Net: NetName=GND Pin=TopPcb-7

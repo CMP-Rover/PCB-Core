@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=Current_sensor_2_1 Pin=Arduino Mega-64
-Removed Pin From Net: NetName=Current_sensor_2_2 Pin=Arduino Mega-65
-Added Pin To Net: NetName=Current_sensor_2_2 Pin=Arduino Mega-73
-Added Pin To Net: NetName=Current_sensor_2_1 Pin=Arduino Mega-74

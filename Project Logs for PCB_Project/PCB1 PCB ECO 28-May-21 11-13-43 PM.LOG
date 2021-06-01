@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=DRIVE_3_5 Pin=Arduino Mega-8
-Removed Pin From Net: NetName=DRIVE_3_6 Pin=Arduino Mega-9
-Added Pin To Net: NetName=DRIVE_3_6 Pin=Arduino Mega-8
-Added Pin To Net: NetName=DRIVE_3_5 Pin=Arduino Mega-9
-Added Room: Name=Sheet1

@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=SOIL Pin=Arduino Mega-25
-Removed Pin From Net: NetName=SERVO6 Pin=Arduino Mega-27
-Removed Pin From Net: NetName=SERVO4 Pin=Arduino Mega-29
-Removed Pin From Net: NetName=SERVO2 Pin=Arduino Mega-31
-Added Pin To Net: NetName=DRIVE_1_4 Pin=Arduino Mega-25
-Added Pin To Net: NetName=DRIVE_1_5 Pin=Arduino Mega-27
-Added Pin To Net: NetName=DRIVE_1_6 Pin=Arduino Mega-29
-Added Pin To Net: NetName=DRIVE_1_7 Pin=Arduino Mega-31
-Added Room: Name=Sheet1

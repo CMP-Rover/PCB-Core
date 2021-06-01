@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=5 Pin=IN_PWR-1
-Removed Pin From Net: NetName=GND Pin=Vol_Reg-1
-Removed Pin From Net: NetName=5 Pin=Vol_Reg-2
-Change Component Designator: OldDesignator=Vol_Reg NewDesignator=Cap
-Added Pin To Net: NetName=5 Pin=Cap-1
-Added Pin To Net: NetName=NetCap_2 Pin=Cap-2
-Added Pin To Net: NetName=NetCap_2 Pin=IN_PWR-1
-Added Net: Name=NetCap_2
-Added Room: Name=Sheet1
