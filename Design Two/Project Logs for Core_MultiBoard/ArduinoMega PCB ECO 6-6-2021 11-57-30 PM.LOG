@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Encoder_3_DIG_2 Pin=Arduino Mega-42
+Removed Pin From Net: NetName=DRIVE_3_7 Pin=Arduino Mega-46
+Added Pin To Net: NetName=DRIVE_3_7 Pin=Arduino Mega-42
+Added Pin To Net: NetName=Encoder_3_DIG_2 Pin=Arduino Mega-46

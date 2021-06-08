@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=DRIVE_1_4 Pin=Motor12-4
+Added Pin To Net: NetName=DRIVE_1_7 Pin=Motor12-5
+Added Pin To Net: NetName=DRIVE_1_8 Pin=Motor12-6
+Added Pin To Net: NetName=DRIVE_1_9 Pin=Motor12-7
+Added Pin To Net: NetName=Encoder_1_DIG_1 Pin=Motor12-8
+Added Pin To Net: NetName=Encoder_1_DIG_2 Pin=Motor12-9

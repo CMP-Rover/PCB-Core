@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TX Pin=Arduino Mega-14
+Removed Pin From Net: NetName=RX Pin=Arduino Mega-15
+Added Pin To Net: NetName=TX Pin=Arduino Mega-16
+Added Pin To Net: NetName=RX Pin=Arduino Mega-17

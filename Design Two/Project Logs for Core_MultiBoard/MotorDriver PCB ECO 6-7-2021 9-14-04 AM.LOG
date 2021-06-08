@@ -1,0 +1,227 @@
+Added Component: Designator=Arduino Mega(ARDUINO MEGA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cap(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Encoder_1(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Motor1(HDR1X18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Motor12(HDR1X18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Motor34(HDR1X18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Motor56(HDR1X18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=RoboticArm(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=TERMINAL(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=TopPcb(HDR1X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5 Pin=Arduino Mega-59
+Added Pin To Net: NetName=5 Pin=Cap-1
+Added Pin To Net: NetName=5 Pin=Motor12-13
+Added Pin To Net: NetName=5 Pin=Motor12-14
+Added Pin To Net: NetName=5 Pin=Motor12-15
+Added Pin To Net: NetName=5 Pin=Motor34-13
+Added Pin To Net: NetName=5 Pin=Motor34-14
+Added Pin To Net: NetName=5 Pin=Motor34-15
+Added Pin To Net: NetName=5 Pin=Motor56-13
+Added Pin To Net: NetName=5 Pin=Motor56-14
+Added Pin To Net: NetName=5 Pin=Motor56-15
+Added Pin To Net: NetName=5 Pin=TERMINAL-1
+Added Pin To Net: NetName=5 Pin=TopPcb-7
+Added Net: Name=5
+Added Pin To Net: NetName=ANG_MQ2 Pin=Arduino Mega-60
+Added Pin To Net: NetName=ANG_MQ2 Pin=TopPcb-1
+Added Net: Name=ANG_MQ2
+Added Pin To Net: NetName=ANG_MQ7 Pin=Arduino Mega-61
+Added Pin To Net: NetName=ANG_MQ7 Pin=TopPcb-2
+Added Net: Name=ANG_MQ7
+Added Pin To Net: NetName=Current_sensor_1_1 Pin=Arduino Mega-72
+Added Pin To Net: NetName=Current_sensor_1_1 Pin=Motor12-1
+Added Net: Name=Current_sensor_1_1
+Added Pin To Net: NetName=Current_sensor_1_2 Pin=Arduino Mega-71
+Added Pin To Net: NetName=Current_sensor_1_2 Pin=Motor12-2
+Added Net: Name=Current_sensor_1_2
+Added Pin To Net: NetName=Current_sensor_2_1 Pin=Arduino Mega-74
+Added Pin To Net: NetName=Current_sensor_2_1 Pin=Motor34-1
+Added Net: Name=Current_sensor_2_1
+Added Pin To Net: NetName=Current_sensor_2_2 Pin=Arduino Mega-73
+Added Pin To Net: NetName=Current_sensor_2_2 Pin=Motor34-2
+Added Net: Name=Current_sensor_2_2
+Added Pin To Net: NetName=Current_sensor_3_1 Pin=Arduino Mega-62
+Added Pin To Net: NetName=Current_sensor_3_1 Pin=Motor56-1
+Added Net: Name=Current_sensor_3_1
+Added Pin To Net: NetName=Current_sensor_3_2 Pin=Arduino Mega-63
+Added Pin To Net: NetName=Current_sensor_3_2 Pin=Motor56-2
+Added Net: Name=Current_sensor_3_2
+Added Pin To Net: NetName=DHT_DATA Pin=Arduino Mega-52
+Added Pin To Net: NetName=DHT_DATA Pin=TopPcb-3
+Added Net: Name=DHT_DATA
+Added Pin To Net: NetName=DRIVE_1_4 Pin=Arduino Mega-32
+Added Pin To Net: NetName=DRIVE_1_4 Pin=Motor12-3
+Added Net: Name=DRIVE_1_4
+Added Pin To Net: NetName=DRIVE_1_5 Pin=Arduino Mega-5
+Added Pin To Net: NetName=DRIVE_1_5 Pin=Motor12-12
+Added Net: Name=DRIVE_1_5
+Added Pin To Net: NetName=DRIVE_1_6 Pin=Arduino Mega-4
+Added Pin To Net: NetName=DRIVE_1_6 Pin=Motor12-11
+Added Net: Name=DRIVE_1_6
+Added Pin To Net: NetName=DRIVE_1_7 Pin=Arduino Mega-30
+Added Pin To Net: NetName=DRIVE_1_7 Pin=Motor12-4
+Added Net: Name=DRIVE_1_7
+Added Pin To Net: NetName=DRIVE_1_8 Pin=Arduino Mega-28
+Added Pin To Net: NetName=DRIVE_1_8 Pin=Motor12-5
+Added Net: Name=DRIVE_1_8
+Added Pin To Net: NetName=DRIVE_1_9 Pin=Arduino Mega-26
+Added Pin To Net: NetName=DRIVE_1_9 Pin=Motor12-6
+Added Net: Name=DRIVE_1_9
+Added Pin To Net: NetName=DRIVE_2_4 Pin=Arduino Mega-53
+Added Pin To Net: NetName=DRIVE_2_4 Pin=Motor34-3
+Added Net: Name=DRIVE_2_4
+Added Pin To Net: NetName=DRIVE_2_5 Pin=Arduino Mega-13
+Added Pin To Net: NetName=DRIVE_2_5 Pin=Motor34-12
+Added Net: Name=DRIVE_2_5
+Added Pin To Net: NetName=DRIVE_2_6 Pin=Arduino Mega-12
+Added Pin To Net: NetName=DRIVE_2_6 Pin=Motor34-11
+Added Net: Name=DRIVE_2_6
+Added Pin To Net: NetName=DRIVE_2_7 Pin=Arduino Mega-51
+Added Pin To Net: NetName=DRIVE_2_7 Pin=Motor34-4
+Added Net: Name=DRIVE_2_7
+Added Pin To Net: NetName=DRIVE_2_8 Pin=Arduino Mega-49
+Added Pin To Net: NetName=DRIVE_2_8 Pin=Motor34-5
+Added Net: Name=DRIVE_2_8
+Added Pin To Net: NetName=DRIVE_2_9 Pin=Arduino Mega-47
+Added Pin To Net: NetName=DRIVE_2_9 Pin=Motor34-6
+Added Net: Name=DRIVE_2_9
+Added Pin To Net: NetName=DRIVE_3_4 Pin=Arduino Mega-34
+Added Pin To Net: NetName=DRIVE_3_4 Pin=Motor56-3
+Added Net: Name=DRIVE_3_4
+Added Pin To Net: NetName=DRIVE_3_5 Pin=Arduino Mega-8
+Added Pin To Net: NetName=DRIVE_3_5 Pin=Motor56-12
+Added Net: Name=DRIVE_3_5
+Added Pin To Net: NetName=DRIVE_3_6 Pin=Arduino Mega-9
+Added Pin To Net: NetName=DRIVE_3_6 Pin=Motor56-11
+Added Net: Name=DRIVE_3_6
+Added Pin To Net: NetName=DRIVE_3_7 Pin=Arduino Mega-36
+Added Pin To Net: NetName=DRIVE_3_7 Pin=Motor56-4
+Added Net: Name=DRIVE_3_7
+Added Pin To Net: NetName=DRIVE_3_8 Pin=Arduino Mega-38
+Added Pin To Net: NetName=DRIVE_3_8 Pin=Motor56-5
+Added Net: Name=DRIVE_3_8
+Added Pin To Net: NetName=DRIVE_3_9 Pin=Arduino Mega-50
+Added Pin To Net: NetName=DRIVE_3_9 Pin=Motor56-6
+Added Net: Name=DRIVE_3_9
+Added Pin To Net: NetName=Encoder_1_DIG_1 Pin=Arduino Mega-24
+Added Pin To Net: NetName=Encoder_1_DIG_1 Pin=Motor12-7
+Added Net: Name=Encoder_1_DIG_1
+Added Pin To Net: NetName=Encoder_1_DIG_2 Pin=Arduino Mega-22
+Added Pin To Net: NetName=Encoder_1_DIG_2 Pin=Motor12-8
+Added Net: Name=Encoder_1_DIG_2
+Added Pin To Net: NetName=Encoder_1_INT_1 Pin=Arduino Mega-3
+Added Pin To Net: NetName=Encoder_1_INT_1 Pin=Motor12-10
+Added Net: Name=Encoder_1_INT_1
+Added Pin To Net: NetName=Encoder_1_INT_2 Pin=Arduino Mega-2
+Added Pin To Net: NetName=Encoder_1_INT_2 Pin=Motor12-9
+Added Net: Name=Encoder_1_INT_2
+Added Pin To Net: NetName=Encoder_2_DIG_1 Pin=Arduino Mega-45
+Added Pin To Net: NetName=Encoder_2_DIG_1 Pin=Motor34-7
+Added Net: Name=Encoder_2_DIG_1
+Added Pin To Net: NetName=Encoder_2_DIG_2 Pin=Arduino Mega-43
+Added Pin To Net: NetName=Encoder_2_DIG_2 Pin=Motor34-8
+Added Net: Name=Encoder_2_DIG_2
+Added Pin To Net: NetName=Encoder_2_INT_1 Pin=Arduino Mega-21
+Added Pin To Net: NetName=Encoder_2_INT_1 Pin=Motor34-10
+Added Net: Name=Encoder_2_INT_1
+Added Pin To Net: NetName=Encoder_2_INT_2 Pin=Arduino Mega-20
+Added Pin To Net: NetName=Encoder_2_INT_2 Pin=Motor34-9
+Added Net: Name=Encoder_2_INT_2
+Added Pin To Net: NetName=Encoder_3_DIG_1 Pin=Arduino Mega-48
+Added Pin To Net: NetName=Encoder_3_DIG_1 Pin=Motor56-7
+Added Net: Name=Encoder_3_DIG_1
+Added Pin To Net: NetName=Encoder_3_DIG_2 Pin=Arduino Mega-46
+Added Pin To Net: NetName=Encoder_3_DIG_2 Pin=Motor56-8
+Added Net: Name=Encoder_3_DIG_2
+Added Pin To Net: NetName=Encoder_3_INT_1 Pin=Arduino Mega-18
+Added Pin To Net: NetName=Encoder_3_INT_1 Pin=Motor56-10
+Added Net: Name=Encoder_3_INT_1
+Added Pin To Net: NetName=Encoder_3_INT_2 Pin=Arduino Mega-19
+Added Pin To Net: NetName=Encoder_3_INT_2 Pin=Motor56-9
+Added Net: Name=Encoder_3_INT_2
+Added Pin To Net: NetName=GND Pin=Arduino Mega-57
+Added Pin To Net: NetName=GND Pin=Arduino Mega-58
+Added Pin To Net: NetName=GND Pin=Cap-2
+Added Pin To Net: NetName=GND Pin=Motor12-16
+Added Pin To Net: NetName=GND Pin=Motor12-17
+Added Pin To Net: NetName=GND Pin=Motor12-18
+Added Pin To Net: NetName=GND Pin=Motor34-16
+Added Pin To Net: NetName=GND Pin=Motor34-17
+Added Pin To Net: NetName=GND Pin=Motor34-18
+Added Pin To Net: NetName=GND Pin=Motor56-16
+Added Pin To Net: NetName=GND Pin=Motor56-17
+Added Pin To Net: NetName=GND Pin=Motor56-18
+Added Pin To Net: NetName=GND Pin=TERMINAL-3
+Added Pin To Net: NetName=GND Pin=TopPcb-6
+Added Net: Name=GND
+Added Pin To Net: NetName=RX Pin=Arduino Mega-15
+Added Pin To Net: NetName=RX Pin=TopPcb-4
+Added Net: Name=RX
+Added Pin To Net: NetName=SERVO1 Pin=Arduino Mega-23
+Added Pin To Net: NetName=SERVO1 Pin=RoboticArm-1
+Added Net: Name=SERVO1
+Added Pin To Net: NetName=SERVO2 Pin=Arduino Mega-25
+Added Pin To Net: NetName=SERVO2 Pin=RoboticArm-2
+Added Net: Name=SERVO2
+Added Pin To Net: NetName=SERVO3 Pin=Arduino Mega-27
+Added Pin To Net: NetName=SERVO3 Pin=RoboticArm-3
+Added Net: Name=SERVO3
+Added Pin To Net: NetName=SERVO4 Pin=Arduino Mega-29
+Added Pin To Net: NetName=SERVO4 Pin=RoboticArm-4
+Added Net: Name=SERVO4
+Added Pin To Net: NetName=SERVO5 Pin=Arduino Mega-31
+Added Pin To Net: NetName=SERVO5 Pin=RoboticArm-5
+Added Net: Name=SERVO5
+Added Pin To Net: NetName=SERVO6 Pin=Arduino Mega-33
+Added Pin To Net: NetName=SERVO6 Pin=RoboticArm-6
+Added Net: Name=SERVO6
+Added Pin To Net: NetName=SERVO7 Pin=Arduino Mega-35
+Added Pin To Net: NetName=SERVO7 Pin=RoboticArm-7
+Added Net: Name=SERVO7
+Added Pin To Net: NetName=SOIL Pin=Arduino Mega-66
+Added Pin To Net: NetName=SOIL Pin=RoboticArm-8
+Added Net: Name=SOIL
+Added Pin To Net: NetName=TX Pin=Arduino Mega-14
+Added Pin To Net: NetName=TX Pin=TopPcb-5
+Added Net: Name=TX
+Added Class: Name=ArduinoMega
+Added Class: Name=MotorDriver
+Added Room: Name=ArduinoMega
+Added Room: Name=MotorDriver

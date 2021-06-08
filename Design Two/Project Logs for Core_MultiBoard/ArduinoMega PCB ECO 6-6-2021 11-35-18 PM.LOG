@@ -1,0 +1,69 @@
+Added Component: Designator=IN_PWR(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Motor34(HDR1X18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Motor56(HDR1X18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=TopPcb(HDR1X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5 Pin=IN_PWR-1
+Added Pin To Net: NetName=GND Pin=IN_PWR-2
+Added Pin To Net: NetName=Current_sensor_2_1 Pin=Motor34-1
+Added Pin To Net: NetName=Current_sensor_2_2 Pin=Motor34-2
+Added Pin To Net: NetName=DRIVE_2_4 Pin=Motor34-3
+Added Pin To Net: NetName=DRIVE_2_7 Pin=Motor34-4
+Added Pin To Net: NetName=DRIVE_2_8 Pin=Motor34-5
+Added Pin To Net: NetName=DRIVE_2_9 Pin=Motor34-6
+Added Pin To Net: NetName=Encoder_2_DIG_1 Pin=Motor34-7
+Added Pin To Net: NetName=Encoder_2_DIG_2 Pin=Motor34-8
+Added Pin To Net: NetName=GND Pin=Motor34-9
+Added Pin To Net: NetName=GND Pin=Motor34-10
+Added Pin To Net: NetName=GND Pin=Motor34-11
+Added Pin To Net: NetName=5 Pin=Motor34-12
+Added Pin To Net: NetName=5 Pin=Motor34-13
+Added Pin To Net: NetName=5 Pin=Motor34-14
+Added Pin To Net: NetName=Encoder_2_INT_2 Pin=Motor34-15
+Added Pin To Net: NetName=Encoder_2_INT_1 Pin=Motor34-16
+Added Pin To Net: NetName=DRIVE_2_6 Pin=Motor34-17
+Added Pin To Net: NetName=DRIVE_2_5 Pin=Motor34-18
+Added Pin To Net: NetName=Current_sensor_3_1 Pin=Motor56-1
+Added Pin To Net: NetName=Current_sensor_3_2 Pin=Motor56-2
+Added Pin To Net: NetName=DRIVE_3_4 Pin=Motor56-3
+Added Pin To Net: NetName=DRIVE_3_7 Pin=Motor56-4
+Added Pin To Net: NetName=DRIVE_3_8 Pin=Motor56-5
+Added Pin To Net: NetName=DRIVE_3_9 Pin=Motor56-6
+Added Pin To Net: NetName=Encoder_3_DIG_1 Pin=Motor56-7
+Added Pin To Net: NetName=Encoder_3_DIG_2 Pin=Motor56-8
+Added Pin To Net: NetName=GND Pin=Motor56-9
+Added Pin To Net: NetName=GND Pin=Motor56-10
+Added Pin To Net: NetName=GND Pin=Motor56-11
+Added Pin To Net: NetName=5 Pin=Motor56-12
+Added Pin To Net: NetName=5 Pin=Motor56-13
+Added Pin To Net: NetName=5 Pin=Motor56-14
+Added Pin To Net: NetName=Encoder_3_INT_2 Pin=Motor56-15
+Added Pin To Net: NetName=Encoder_3_INT_1 Pin=Motor56-16
+Added Pin To Net: NetName=DRIVE_3_6 Pin=Motor56-17
+Added Pin To Net: NetName=DRIVE_3_5 Pin=Motor56-18
+Added Pin To Net: NetName=ANG_MQ2 Pin=TopPcb-1
+Added Pin To Net: NetName=ANG_MQ7 Pin=TopPcb-2
+Added Pin To Net: NetName=DHT_DATA Pin=TopPcb-3
+Added Pin To Net: NetName=RX Pin=TopPcb-4
+Added Pin To Net: NetName=TX Pin=TopPcb-5
+Added Pin To Net: NetName=GND Pin=TopPcb-6
+Added Pin To Net: NetName=5 Pin=TopPcb-7
+Added Member To Class: ClassName=ArduinoMega Member=Component IN_PWR INPUT POWER
+Added Member To Class: ClassName=ArduinoMega Member=Component Motor34 Header 18
+Added Member To Class: ClassName=ArduinoMega Member=Component Motor56 Header 18
+Added Member To Class: ClassName=ArduinoMega Member=Component TopPcb Header 7

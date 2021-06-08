@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Encoder_1_INT_2 Pin=Motor12-7
+Removed Pin From Net: NetName=Encoder_1_INT_1 Pin=Motor12-8
+Added Pin To Net: NetName=Encoder_1_INT_2 Pin=Motor12-15
+Added Pin To Net: NetName=Encoder_1_INT_1 Pin=Motor12-16

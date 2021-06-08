@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=Motor12-9
+Removed Pin From Net: NetName=GND Pin=Motor12-10
+Removed Pin From Net: NetName=GND Pin=Motor12-11
+Removed Pin From Net: NetName=5 Pin=Motor12-12
+Removed Pin From Net: NetName=Encoder_1_INT_2 Pin=Motor12-15
+Removed Pin From Net: NetName=Encoder_1_INT_1 Pin=Motor12-16
+Removed Pin From Net: NetName=DRIVE_1_6 Pin=Motor12-17
+Removed Pin From Net: NetName=DRIVE_1_5 Pin=Motor12-18
+Added Pin To Net: NetName=Encoder_1_INT_2 Pin=Motor12-9
+Added Pin To Net: NetName=Encoder_1_INT_1 Pin=Motor12-10
+Added Pin To Net: NetName=DRIVE_1_6 Pin=Motor12-11
+Added Pin To Net: NetName=DRIVE_1_5 Pin=Motor12-12
+Added Pin To Net: NetName=5 Pin=Motor12-15
+Added Pin To Net: NetName=GND Pin=Motor12-16
+Added Pin To Net: NetName=GND Pin=Motor12-17
+Added Pin To Net: NetName=GND Pin=Motor12-18

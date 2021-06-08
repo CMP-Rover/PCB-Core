@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Current_sensor_1_2 Pin=Motor12-13
+Removed Pin From Net: NetName=Current_sensor_1_1 Pin=Motor12-14
+Added Pin To Net: NetName=Current_sensor_1_1 Pin=Motor12-1
+Added Pin To Net: NetName=Current_sensor_1_2 Pin=Motor12-2
+Added Pin To Net: NetName=DRIVE_1_4 Pin=Motor12-3
+Added Pin To Net: NetName=DRIVE_1_7 Pin=Motor12-4
+Added Pin To Net: NetName=DRIVE_1_8 Pin=Motor12-5
+Added Pin To Net: NetName=DRIVE_1_9 Pin=Motor12-6
+Added Pin To Net: NetName=Encoder_1_DIG_1 Pin=Motor12-7
+Added Pin To Net: NetName=Encoder_1_DIG_2 Pin=Motor12-8
+Added Pin To Net: NetName=GND Pin=Motor12-9
+Added Pin To Net: NetName=GND Pin=Motor12-10
+Added Pin To Net: NetName=GND Pin=Motor12-11
+Added Pin To Net: NetName=5 Pin=Motor12-12
+Added Pin To Net: NetName=5 Pin=Motor12-13
+Added Pin To Net: NetName=5 Pin=Motor12-14
+Added Room: Name=ArduinoMega

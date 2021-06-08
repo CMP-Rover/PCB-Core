@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Encoder_2_INT_1 Pin=Arduino Mega-18
+Removed Pin From Net: NetName=Encoder_2_INT_2 Pin=Arduino Mega-19
+Removed Pin From Net: NetName=Encoder_3_INT_2 Pin=Arduino Mega-20
+Removed Pin From Net: NetName=Encoder_3_INT_1 Pin=Arduino Mega-21
+Added Pin To Net: NetName=Encoder_3_INT_1 Pin=Arduino Mega-18
+Added Pin To Net: NetName=Encoder_3_INT_2 Pin=Arduino Mega-19
+Added Pin To Net: NetName=Encoder_2_INT_2 Pin=Arduino Mega-20
+Added Pin To Net: NetName=Encoder_2_INT_1 Pin=Arduino Mega-21

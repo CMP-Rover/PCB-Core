@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DRIVE_1_5 Pin=Motor12-14
+Removed Pin From Net: NetName=DRIVE_1_6 Pin=Motor12-15
+Added Pin To Net: NetName=DRIVE_1_4 Pin=Motor12-17
+Added Pin To Net: NetName=DRIVE_1_5 Pin=Motor12-18
